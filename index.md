@@ -15,5 +15,5 @@ My Github page is http://github.com/jdiaz0
 
     Lab 5, part 1 was also one my favorites becuase it had some math in it. Math being my favorite subject I really enjoyed the caluclatiing Area of the Rectangle part of it. It was also quite the challenge at this time.
 
-Lab 6 
+* Lab 6 
     Lab 6 was my third favorite one because of the blackjack part. Reminded me of playing it with my family. Also had a great partner to work with in this lab, made it really easy to work and also had a good time.
